@@ -1,0 +1,25 @@
+.project
+.buildpath
+.classpath
+.checkstyle
+.settings/
+.idea/
+TAGS
+*.log
+*.lck
+*.iml
+*.yml
+target/
+*.DS_Store
+*.patch
+*~
+git.properties
+contrib/native/client/build/
+contrib/native/client/build/*
+CMakeCache.txt
+CMakeFiles
+Makefile
+cmake_install.cmake
+install_manifest.txt
+# TODO - DRILL-4336
+exec/jdbc-all/dependency-reduced-pom.xml
